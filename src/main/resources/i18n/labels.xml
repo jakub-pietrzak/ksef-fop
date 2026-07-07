@@ -182,6 +182,7 @@
     <entry key="taxId">Identyfikator podatkowy inny</entry>
     <entry key="checkInvoiceInKsef">Sprawdź, czy Twoja faktura znajduje się w KSeF</entry>
     <entry key="partialPaymentAmount">Kwota zapłaty częściowej</entry>
+    <entry key="partialPaymentForm">Forma zapłaty częściowej</entry>
     <entry key="partialPaymentDate">Data zapłaty częściowej</entry>
     <entry key="paymentMethod.cash">Gotówka</entry>
     <entry key="paymentMethod.card">Karta</entry>

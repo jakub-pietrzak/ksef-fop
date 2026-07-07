@@ -182,6 +182,7 @@
     <entry key="taxId">Tax ID</entry>
     <entry key="checkInvoiceInKsef">Check if your invoice is in KSeF</entry>
     <entry key="partialPaymentAmount">Partial payment amount</entry>
+    <entry key="partialPaymentForm">Partial payment form</entry>
     <entry key="partialPaymentDate">Partial payment date</entry>
     <entry key="paymentMethod.cash">Cash</entry>
     <entry key="paymentMethod.card">Card</entry>
